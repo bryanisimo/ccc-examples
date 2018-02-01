@@ -1,0 +1,14 @@
+span.texto{
+  padding          : 0.3em;
+  background-color : #F00;
+  color            : #fff;
+}
+.btn.btn-success{
+  background-color: #0F0;
+}
+body p span#texto1{
+  color: green;
+}
+#texto1{
+  color: white;
+}
